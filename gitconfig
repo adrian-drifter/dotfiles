@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = acidusuper@gmail.com
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	email = acidsuper@gmail.com
+	name = adrian acevedo cortes
