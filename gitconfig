@@ -51,7 +51,7 @@
   rebase = false
 [user]
 	email = acidsuper@gmail.com
-	name = adrian acevedo cortes
+	name = adrian
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
