@@ -52,6 +52,7 @@
 [user]
 	email = acidsuper@gmail.com
 	name = adrian
+	name = adrian
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
